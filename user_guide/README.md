@@ -1,3 +1,3 @@
 # User guide
 
-This document aims to be a comprehensive user guide..
+<User guide goes here..>
