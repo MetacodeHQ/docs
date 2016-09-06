@@ -1,3 +1,3 @@
 # User guide
 
-<User guide goes here..>
+User guide goes here..
